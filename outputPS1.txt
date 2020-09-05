@@ -1,0 +1,35 @@
+
+
+Product Sequence: ('F', 'A', 'E', 'B', 'C', 'D')
+Total time to complete photoshoot: 205
+Idle time for Xavier: 10
+
+
+
+
+Product Sequence: ('E', 'G', 'F', 'C', 'D', 'A', 'B')
+Total time to complete photoshoot: 180
+Idle time for Xavier: 55
+
+
+
+
+Product Sequence: ('B', 'D', 'C', 'F', 'A', 'E')
+Total time to complete photoshoot: 205
+Idle time for Xavier: 35
+
+
+
+
+Product Sequence: ('C', 'G', 'A', 'D', 'F', 'B', 'E')
+Total time to complete photoshoot: 300
+Idle time for Xavier: 120
+
+
+
+
+Product Sequence: ('E', 'D', 'C', 'A', 'B')
+Total time to complete photoshoot: 199
+Idle time for Xavier: 78
+
+
