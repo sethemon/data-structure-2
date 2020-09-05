@@ -8,13 +8,19 @@ A famous product photographer Xavier is in high demand and is being approached b
 Sample Input
 ===================================================
 For example, if there are 6 different products in total the time (in minutes) for staging and photoshoot are mentioned as below:
+
 Products: A / B / C / D / E / F
+
 Staging: 20 / 30 / 45 / 60 / 20 / 10
+
 Photo: 30 / 30 / 15 / 20 / 40 / 60
 
 
 Sample Output
 ===================================================
+
 Product Sequence: F, A, E, B, C, D
+
 Total time to complete photoshoot: 205 minutes
+
 Idle time for Xavier: 10 minutes
