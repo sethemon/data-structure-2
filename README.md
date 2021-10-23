@@ -1,5 +1,5 @@
-# dsad-assignment2
-DSAD Assingment 2 for Photo shoot job scheduling
+# data-structure-2
+DSAD for Photo-shoot Job scheduling
 
 Problem Statement
 ===================================================
